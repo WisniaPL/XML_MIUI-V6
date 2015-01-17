@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
-<resources>
-     <string-array name="miracast_policies">
-        <item>Krótkie opóźnienie</item>
-        <item>Standardowe</item>
-        <item>Lepsza jakość</item>
-     </string-array>
-</resources>

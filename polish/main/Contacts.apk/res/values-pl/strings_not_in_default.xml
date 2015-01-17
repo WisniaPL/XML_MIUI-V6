@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
-<resources>
-     <string name="call_sim1_menu_title">Połącz z SIM1</string>
-     <string name="call_sim2_menu_title">Połącz z SIM2</string>
-     <string name="resource_get_auth_missing">Motyw nie został pobrany z marketu MIUI. Zaloguj się do konta Xiaomi i pobierz motyw z oficjalnego marketu.</string>
-     <string name="resource_tip_select_ringtone">Nie wybrano dzwonka</string>
-     <string name="resource_trial_end_restore_nickname">Przywróć</string>
-</resources>

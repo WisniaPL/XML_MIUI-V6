@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
-<resources>
-     <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
-     <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
-     <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
-     <string name="send_secret_code">Send secret code</string>
-</resources>

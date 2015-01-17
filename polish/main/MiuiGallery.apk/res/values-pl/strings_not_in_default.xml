@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
-<resources>
-     <string name="auto_upload_guide__msssage">Kopiuj zdjęcia z innych aplikacji do Chmury</string>
-     <string name="fail_to_apply">Nie udało się dołączyć do albumu.</string>
-     <string name="new_feature">Nowa funkcja</string>
-     <string name="request_qr_code">Oczekiwanie na kod QR, proszę czekać...</string>
-     <string name="sina_weibo_save">Weibo</string>
-</resources>

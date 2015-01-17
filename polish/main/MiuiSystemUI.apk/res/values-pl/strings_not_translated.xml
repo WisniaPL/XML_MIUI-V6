@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
-<resources>
-     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
-     <string name="oldman_airplane_mode_text">airplane</string>
-     <string name="oldman_incall_text">incall</string>
-     <string name="oldman_status_bar_time_format_12">h:mm</string>
-     <string name="oldman_status_bar_time_format_24">HH:mm</string>
-</resources>

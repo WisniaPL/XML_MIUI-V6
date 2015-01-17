@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
-<resources>
-     <string name="no_downloading_file">No files are downloading.</string>
-     <string name="record_download_msg">Recordings can only be played after they have finished downloading.</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
-</resources>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
-<resources>
-     <plurals name="slide_audio_duration">
-        <item quantity="other">%s secs</item>
-        <item quantity="one">%s sec</item>
-        <item quantity="few">%s secs</item>
-     </plurals>
-</resources>
