@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="audio_playing_seconds">%d\"</string>
+     <string name="mx2_type_description">[%s]</string>
+     <string name="prefDefault_ringtone_repeat">1</string>
+     <string name="prefDefault_vibrateWhen">never</string>
+     <string name="prefDefault_vibrate_false">never</string>
+     <string name="prefDefault_vibrate_true">always</string>
+     <string name="resource_price_free">Free</string>
+     <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
+     <string name="send_message_dlg_title">Device management</string>
+     <string name="send_message_notification_msg">Tap to view request details.</string>
+     <string name="send_message_notification_tickerText">Device is requesting permission</string>
+     <string name="send_message_notification_title">Permission request</string>
+     <string name="snippet_audio">[audio]</string>
+     <string name="snippet_picture">[picture]</string>
+</resources>

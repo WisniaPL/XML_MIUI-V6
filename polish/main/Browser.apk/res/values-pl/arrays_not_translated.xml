@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="pref_volume_key_choices">
+        <item>Previous page/Next page</item>
+        <item>Previous tab/Next tab</item>
+     </string-array>
+     <string-array name="taobao_in_list">
+        <item>search_taobao</item>
+        <item>ic_search_engine_taobao</item>
+        <item>taobao</item>
+     </string-array>
+</resources>

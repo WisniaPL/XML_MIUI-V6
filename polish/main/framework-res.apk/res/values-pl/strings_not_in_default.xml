@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="global_action_sleep">Uśpij</string>
+     <string name="global_actions_miracast_connection_failed_status">Połączenie nieudane.</string>
+     <string name="global_actions_miracast_connection_progress_status">Łączenie z wyświetlaczem...</string>
+     <string name="global_actions_miracast_mode_airplane_on_status">Niedostępne: tryb Samolotowy włączony</string>
+     <string name="global_actions_miracast_mode_cancel_connection_status">Anuluj połączenie</string>
+     <string name="global_actions_miracast_mode_off_status_many_paired">Połącz z poprzednio sparowanym wyświetlaczem</string>
+     <string name="global_actions_miracast_mode_off_status_no_paired">Połącz z wyświetlaczem</string>
+     <string name="global_actions_miracast_mode_off_status_single_paired">"Połączony z "</string>
+     <string name="global_actions_miracast_mode_on_status">Zatrzymaj przesył</string>
+     <string name="global_actions_miracast_mode_pc2thor_on_status">Unavailable due to PC streaming to SHIELD</string>
+     <string name="global_actions_miracast_mode_wifi_off_status">Sieć Wi-Fi jest wyłączona</string>
+     <string name="global_actions_miracast_sink_not_found_status">Nie można wyszukać wyświetlacza.</string>
+     <string name="global_actions_miracast_sink_search_status">Wyszukiwanie wyświetlaczy...</string>
+     <string name="global_actions_toggle_miracast_mode">Miracast</string>
+     <string name="lockscreen_airplane_mode_on">Tryb samolotowy</string>
+     <string name="media_route_chooser_grouping_done">Gotowe</string>
+     <string name="p2p_wifi_frequency_conflict_message">Połączenie Wi-Fi Direct zostanie rozłączone. Kontynuować?</string>
+     <string name="permission">Uprawnienie</string>
+     <string name="permission_remember_choice">Zapamiętaj</string>
+     <string name="pinpuk_attempts">"
+Pozostało prób :"</string>
+     <string name="progress_nomediapresent">Brak nośnika wymiennego…</string>
+     <string name="quick_contacts_not_available">Brak aplikacji do wyświetlenia tego kontaktu</string>
+     <string name="reboot_confirm">Telefon zostanie uruchomiony ponownie.</string>
+     <string name="reboot_progress">Ponowne uruchamianie…</string>
+     <string name="wifi_display_notification_message">Ten ekran jest wyświetlany na innym urządzeniu</string>
+     <string name="wifi_display_notification_title">Podłączony jest wyświetlacz bezprzewodowy</string>
+</resources>

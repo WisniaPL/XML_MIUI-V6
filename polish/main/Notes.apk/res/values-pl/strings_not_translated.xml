@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
+     <string name="toast_note_privacy_mode">"Can't create note in Guest mode"</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="ims_call_types">
+        <item>Głos</item>
+        <item>Wideo</item>
+     </string-array>
+</resources>

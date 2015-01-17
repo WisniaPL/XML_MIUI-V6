@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="mmiCancelled">Kod MMI został anulowany</string>
+     <string name="mmiStarted">Kod MMI został rozpoczęty</string>
+     <string name="phoneIconLabel">Telefon</string>
+</resources>
