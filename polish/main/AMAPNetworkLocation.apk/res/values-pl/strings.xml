@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Network Location</string>
+    <string name="location_warning_title">Zgoda na lokalizację</string>
+    <string name="location_warning_message">"Zezwalaj usłudze lokalizacja AutoNavi na zbieranie anonimowych danych o lokalizacji. Niektóre dane mogą być przechowywane w urządzeniu, mogę również być zbierane, gdy nie są uruchomione aplikacje."</string>
+    <string name="agree">Zezwól</string>
+    <string name="disagree">Odmów</string>
+</resources>
